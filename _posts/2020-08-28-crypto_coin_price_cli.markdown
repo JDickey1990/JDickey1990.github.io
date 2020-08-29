@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Crypto Coin Price CLI"
-date:       2020-08-29 02:23:43 +0000
+date:       2020-08-28 22:23:44 -0400
 permalink:  crypto_coin_price_cli
 ---
 
@@ -21,11 +21,11 @@ My project consists of the following sequence of steps:
 
 4.All of the instances of coins that are created are stored in an array. Using this array and each.with_index method a list of coins is created and presented to the user.
 
-5. The user selects which coin they would like to see price details of and I use the gets method to receive the choice.
+5.The user selects which coin they would like to see price details of and I use the gets method to receive the choice.
 
-6. Validate the users input and then call the method that will display the price details of the coin selected. 
+6.Validate the users input and then call the method that will display the price details of the coin selected. 
 
-7. The final step of the project simply allows the user to return and select another coin or exit.
+7.The final step of the project simply allows the user to return and select another coin or exit.
 
 
 
