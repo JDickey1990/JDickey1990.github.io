@@ -1,11 +1,11 @@
 # Site settings
 author: Jordan Dickey
-title: 
+title: Crypto Coin Price CLI
 header-img: img/home-bg.png
 email: jordan.michael.dickey@gmail.com
 copyright_name: Jordan Dickey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Mod 1 Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JDickey1990
